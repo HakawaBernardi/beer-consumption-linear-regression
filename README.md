@@ -1,8 +1,8 @@
 # beer-consumption-linear-regression
 # 🍺 Regressão Linear — Consumo de Cerveja
 
-> **Disciplina:** Inteligência Artificial — PUC Goiás (CMP1110)  
-> **Professor(a):** Clarimar J. Coelho | **Aluno:** Hakawã Luiz Bernardi | **Semestre:** 1/2025
+> **Disciplina:** Inteligência Artificial — PUC Goiás  
+> **Aluno:** Hakawã Luiz Bernardi | **Semestre:** 1/2025
 
 ---
 
@@ -26,11 +26,6 @@ beer-linear-regression/
 │
 ├── regressao_cerveja.py       # Script principal com toda a análise
 ├── beer_consuption.csv        # Dataset (365 obs × 7 variáveis)
-│
-├── docs/
-│   ├── ia_aed1_2025_1_mlr_1.pdf          # Enunciado da avaliação
-│   └── IA_AED1_-_Hakawã_Bernardi.pdf     # Relatório entregue
-│
 └── README.md
 ```
 
@@ -41,7 +36,7 @@ beer-linear-regression/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/beer-linear-regression.git
+git clone https://github.com/HakawaBernardi/beer-consumption-linear-regression.git
 cd beer-linear-regression
 ```
 
@@ -61,7 +56,7 @@ python regressao_cerveja.py
 
 ## 📊 Dataset
 
-**beer_consuption.csv** — Dados diários de consumo de cerveja em São Paulo (2015)
+**beer_consuption.csv** — Dados diários de consumo de cerveja
 
 | Coluna | Tipo | Descrição |
 |---|---|---|
