@@ -19,18 +19,6 @@ O projeto implementa dois métodos de estimação dos coeficientes **do zero**, 
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-beer-linear-regression/
-│
-├── regressao_cerveja.py       # Script principal com toda a análise
-├── beer_consuption.csv        # Dataset (365 obs × 7 variáveis)
-└── README.md
-```
-
----
-
 ## 🚀 Como Executar
 
 ### 1. Clone o repositório
