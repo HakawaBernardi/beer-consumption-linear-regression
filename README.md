@@ -1,8 +1,7 @@
-# beer-consumption-linear-regression
 # 🍺 Regressão Linear — Consumo de Cerveja
 
 > **Disciplina:** Inteligência Artificial — PUC Goiás  
-> **Aluno:** Hakawã Luiz Bernardi | **Semestre:** 1/2025
+> **Aluno:** Hakawã Luiz Bernardi
 
 ---
 
@@ -25,7 +24,7 @@ O projeto implementa dois métodos de estimação dos coeficientes **do zero**, 
 
 ```bash
 git clone https://github.com/HakawaBernardi/beer-consumption-linear-regression.git
-cd beer-linear-regression
+cd beer-consumption-linear-regression
 ```
 
 ### 2. Instale as dependências
